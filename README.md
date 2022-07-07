@@ -1,11 +1,3 @@
-1.	MDCS에 있는 문서를 조회할 때도 DRM이 적용된 이후에  pdf 형식으로 변환이 되나요?
-아니면 pdf로 변환된 이후에 DRM이 적용되나요?
-2.	MDCS에 저장된 문서를 조회하거나 download할 때 모두 DRM이 적용되나요?
-3.	Pdf로 변환하는 작업은 pdf gateway를 사용하나요?
-4.	MS Office 문서는 저장할 때 pdf로 저장하도록 할 수 있습니다.
-만약 MDCS에 문서를 저장할 때 pdf 형식만 사용한다면
-MS office에서 pdf로 변환/저장된 문서를 upload하라고 하면
-Pdfgateway를 제거해도 되나요?
 
 
 const readline = require('readline');
